@@ -1,0 +1,11 @@
+name: my_migrate_project
+
+publish_to: 'none'
+version: 1.0.0+1
+
+dependencies:
+  path:
+  http:
+
+environment:
+  sdk: ">=2.8.0 <3.0.0"
